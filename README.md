@@ -1,2 +1,2 @@
 # Crowdfunding-Excel-Challenge
-Using Excel to analyze and visualizing crowdfunding data
+Using Excel to analyze and visualize crowdfunding data
